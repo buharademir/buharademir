@@ -1,10 +1,22 @@
 # Buhara Demir
 
-Chief Marketing Officer at airtuerk Service GmbH, Frankfurt am Main.
+Designer and Chief Marketing Officer at airtuerk Service GmbH, Frankfurt am Main. Airlines, aviation and travel trade, across Europe and the Middle East, open worldwide.
 
-I lead brand, design and the marketing systems for a travel group moving €750m a year through 1,200 partner agencies, across DACH, Benelux and the Middle East. The strategy, the design and the system underneath are one job here.
+I lead brand, design and marketing for a travel group moving €750m a year through 1,200 partner agencies across Europe (DACH and Benelux) and the Middle East, and I build and operate the AI-driven systems its marketing runs on. The strategy, the design and the system underneath are one job here, and I work AI-first and hands-on: first versions built myself, in Figma and in the code.
 
 Marketing, as I run it, is a solutions team. The company sets the goal, we find the way there, and the way may leave the frame when the frame is the problem. I stay close enough to the systems to test strategy in production. AI is how the newer ones get built, not the reason they exist.
+
+## At a glance
+
+- **Role:** Chief Marketing Officer, airtuerk Service GmbH, Frankfurt. Head of Marketing 2022 to 2025, CMO since 2026.
+- **Origin:** Designer. Corporate identity, brand architecture, design systems, UI/UX, print and screen. Figma, Adobe Creative Cloud.
+- **Way of working:** AI-first and hands-on. First versions built myself, in Figma and in the code.
+- **Sector:** Airlines, aviation and B2B travel distribution: flight consolidation, online travel agencies, tour operators.
+- **Markets:** Europe (Germany, Austria, Switzerland, the Netherlands, Belgium) and the Middle East (United Arab Emirates, Qatar, Saudi Arabia). Turkey 2010 to 2019.
+- **Scale:** €750m transaction volume, 1,200 partner agencies, four brands, three legal entities, €500k marketing budget.
+- **AI and systems:** LLM and RAG retrieval, agent workflows, Contracts360, terminal company OS with 70 daily users and five vendors replaced. Next.js, TypeScript, Supabase, Vercel.
+- **Languages and reach:** German, English, Turkish. Frankfurt today, open worldwide, Europe and the Gulf first.
+- **Machine-readable:** [llms.txt](https://buharademir.de/llms.txt) · [CV as JSON](https://buharademir.de/cv.json) · [CV as PDF](https://buharademir.de/cv/buhara-demir-cv.pdf)
 
 ## Selected work
 
@@ -12,7 +24,7 @@ Marketing, as I run it, is a solutions team. The company sets the goal, we find 
 
 **[One roof, four brands](https://buharademir.de/work/airtuerk-brand-architecture)** is the brand architecture underneath it. Four brands, three legal entities, more than ten products, one identity system that runs from contract templates through to signage.
 
-**[myHotels](https://buharademir.de/work/atbeds-ibe)**, the atBeds booking engine. Hotel inventory from several bedbanks plus Amadeus activity discovery, in one flow. Architecture and interface.
+**[myHotels](https://buharademir.de/work/atbeds-ibe)**, the atBeds booking engine. Hotel inventory from several bedbanks plus Amadeus activity discovery, in one flow. Architecture and UI/UX.
 
 **[airtuerk HQ, Westhafen](https://buharademir.de/work/airtuerk-hq-westhafen)**, an office designed as a place to be rather than a place to work. German Design Award 2026, Winner in Interior Architecture.
 
